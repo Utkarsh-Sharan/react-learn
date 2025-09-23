@@ -8,3 +8,6 @@ Learned about the flow of react and vite.
 
 ## Custom React
 Created first custom basic react.
+
+## Hooks and State
+Learned about useState() hook and counter state with a basic counter app.

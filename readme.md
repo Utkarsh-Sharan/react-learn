@@ -14,3 +14,6 @@ Learned about useState() hook and counter state with a basic counter app.
 
 ## Tailwind and Props
 Learned how to use tailwind in vite and about props.
+
+## Project- Background color Changer
+Created a basic background color changing app with Vite and tailwind.

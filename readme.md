@@ -17,3 +17,6 @@ Learned how to use tailwind in vite and about props.
 
 ## Project- Background color Changer
 Created a basic background color changing app with Vite and tailwind.
+
+## Project- Password Generator
+Created a Password Generator app with tailwind and Vite. Learned about hooks like useCallback, useRef and useEffect.

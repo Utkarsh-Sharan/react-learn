@@ -11,3 +11,6 @@ Created first custom basic react.
 
 ## Hooks and State
 Learned about useState() hook and counter state with a basic counter app.
+
+## Tailwind and Props
+Learned how to use tailwind in vite and about props.

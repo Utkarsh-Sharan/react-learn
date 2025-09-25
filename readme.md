@@ -20,3 +20,6 @@ Created a basic background color changing app with Vite and tailwind.
 
 ## Project- Password Generator
 Created a Password Generator app with tailwind and Vite. Learned about hooks like useCallback, useRef and useEffect.
+
+## Project- Currency convertor
+Created a Currency convertor app with tailwind and Vite. Learned to create custom hook and components.

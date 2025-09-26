@@ -23,3 +23,6 @@ Created a Password Generator app with tailwind and Vite. Learned about hooks lik
 
 ## Project- Currency convertor
 Created a Currency convertor app with tailwind and Vite. Learned to create custom hook and components.
+
+## Project- Website
+Created a typical website with tailwind and Vite. Learned about React Routers.

@@ -26,3 +26,6 @@ Created a Currency convertor app with tailwind and Vite. Learned to create custo
 
 ## Project- Website
 Created a typical website with tailwind and Vite. Learned about React Routers.
+
+## Concept- Context API
+Created a basic Login Page to understand about Context API and how we can transfer data. It's almost like Service Locator but without using Singleton.

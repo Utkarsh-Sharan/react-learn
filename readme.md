@@ -29,3 +29,6 @@ Created a typical website with tailwind and Vite. Learned about React Routers.
 
 ## Concept- Context API
 Created a basic Login Page to understand about Context API and how we can transfer data. It's almost like Service Locator but without using Singleton.
+
+## Project- Theme Switcher
+Created a simple Theme Switcher with tailwind and Vite. Learned about Context API's different syntax.

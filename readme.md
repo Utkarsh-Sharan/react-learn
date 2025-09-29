@@ -32,3 +32,6 @@ Created a basic Login Page to understand about Context API and how we can transf
 
 ## Project- Theme Switcher
 Created a simple Theme Switcher with tailwind and Vite. Learned about Context API's different syntax.
+
+## Project- Todo with context and local storage
+Created a To-Do application with tailwind and Vite. Used context and local storage.
